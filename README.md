@@ -6,7 +6,7 @@ Front-End 기술로 UX(User eXperience) 하기!
 
 단순히 디자인 결과물과 똑같이 만들어 내기만 하면 되는 게 아닌, 사용자 경험까지 고려한 구현 방법을 탐구하고 개발하는 조직입니다.
 
-[pxd XE 그룹 더 알아보기](https://www.pxd.co.kr/pages/service/service_detail_05.html)
+[pxd XE 그룹 더 알아보기](https://www.pxd.co.kr/service/detail_05)
 ## 모집분야
 UX Engineer (신입 및 경력)
 
