@@ -44,4 +44,4 @@ Back-End 개발에 대한 이해도가 있으신 분
 [](https://www.pxd.co.kr/pages/jobs/jobs_form.html?recruit_num=56)
 
 ## 지원방법 
-[지원하러 가기]( https://www.pxd.co.kr/pages/jobs/jobs_form.html?recruit_num=56)
+[지원하러 가기](https://www.pxd.co.kr/jobs/56)
