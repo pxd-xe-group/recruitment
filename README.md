@@ -17,9 +17,9 @@ UX Engineer (신입 및 경력)
  
 ## 이런 분들이 좋아요
 
-HTML5, CSS, Javascript, SCSS 개발 가능자
-React.js, Next.js, Typescript 유경험 또는 개발 가능자
-유관 경력 4년 이상 보유자
+- HTML5, CSS, Javascript, SCSS 개발 가능자
+- React.js, Next.js, Typescript 유경험 또는 개발 가능자
+- 유관 경력 4년 이상 보유자
 
 ## 우대사항
 각종 법령에서 우대 채용으로 정하는 분
