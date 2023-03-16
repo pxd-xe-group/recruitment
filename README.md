@@ -8,30 +8,20 @@ Front-End 기술로 UX(User eXperience) 하기!
 
 [pxd XE 그룹 더 알아보기](https://www.pxd.co.kr/service/detail_05)
 ## 모집분야
+
 UX Engineer (신입 및 경력)
 
 ## 주요업무
 
-Front-End 개발 (Vue, React, Angular …)
-HTML5
-CSS3
-ES6 (Javascript)
-TypeScript
+블록체인 기반 서비스들의 UI 개발 및 프론트엔드 개발
  
 ## 이런 분들이 좋아요
 
-HTML5, CSS3, Javascript 가능자
-SPA Frameworks(Vue, Reacet, Angular 등) 프로젝트 유경험자 또는 개발 가능자
-자신의 업무를 명확히 하고 그 행동에 책임을 질 수 있으며 자발적 동기가 부여된 개발자
-다양한 관점을 가진 사람들과 함께 열린 커뮤니케이션을 할 수 있는 분
-새로운 것을 학습하고 공유하는 데 관심이 있는 분
-## 우대사항
+HTML5, CSS, Javascript, SCSS 개발 가능자
+React.js, Next.js, Typescript 유경험 또는 개발 가능자
+유관 경력 4년 이상 보유자
 
-TypeScript 유경험자
-Back-End 기반에서 Front-End 개발자로 전향하고자 하시는 분
-Back-End 개발에 대한 이해도가 있으신 분
-하이브리드 앱 개발 경험이 있으신 분
-개발 커뮤니티 활동 또는 오픈소스 커미터
+## 우대사항
 각종 법령에서 우대 채용으로 정하는 분
  
 ## 채용절차
